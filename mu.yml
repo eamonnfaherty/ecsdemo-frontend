@@ -10,4 +10,4 @@ service:
     CRYSTAL_URL: "http://ecsdemo-crystal/crystal"
     NODEJS_URL: "http://ecsdemo-nodejs/"
   extensions:
-    - url: https://github.com/stelligent/mu-datadog/archive/v0.1.zip
+  - url: https://github.com/stelligent/mu-datadog/archive/v0.1.zip
